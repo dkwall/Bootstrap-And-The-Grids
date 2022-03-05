@@ -2,6 +2,12 @@ main>.container {
     padding: 60px 15px 0;
     margin-bottom: 5rem;
 }
+
+body> main {
+    margin-top: 1.25rem;
+    margin-bottom: 3.75rem;
+}
+
 .sticky-footer {
     position: sticky;
     left: 0;
